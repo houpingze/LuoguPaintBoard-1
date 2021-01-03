@@ -4,8 +4,8 @@ import time
 import json
 import sys
 
-WIDTH = 800
-HEIGHT = 400
+WIDTH = 1000
+HEIGHT = 600
 COLORS = 32
 GETTIMEOUT = 5
 POSTTIMEOUT = 5
